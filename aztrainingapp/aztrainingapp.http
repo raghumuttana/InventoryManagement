@@ -1,0 +1,6 @@
+@aztrainingapp_HostAddress = http://localhost:5105
+
+GET {{aztrainingapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
